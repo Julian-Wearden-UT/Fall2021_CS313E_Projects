@@ -1,4 +1,4 @@
-# Project
+# Number Spiral
 
 ## Academic Integrity Disclaimer
 

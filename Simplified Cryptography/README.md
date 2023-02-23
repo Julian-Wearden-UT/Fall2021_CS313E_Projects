@@ -1,4 +1,4 @@
-# Project
+# Simplified Cryptography
 
 ## Academic Integrity Disclaimer
 

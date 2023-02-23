@@ -1,4 +1,4 @@
-# Project
+# Binary Trees
 
 ## Academic Integrity Disclaimer
 

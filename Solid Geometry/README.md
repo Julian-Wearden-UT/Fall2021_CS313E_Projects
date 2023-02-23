@@ -1,4 +1,4 @@
-# Project
+# Solid Geometry
 
 ## Academic Integrity Disclaimer
 

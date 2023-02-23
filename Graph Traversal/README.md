@@ -1,4 +1,4 @@
-# Project
+# Graph Traversal
 
 ## Academic Integrity Disclaimer
 
