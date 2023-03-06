@@ -38,4 +38,4 @@ Runtime comparison of binary and linear search implementations to solve problem.
 
 ##
 ###### This project was completed at UT Austin in the Fall of 2021 by: 
-###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden</a>
